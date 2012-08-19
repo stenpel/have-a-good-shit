@@ -1,0 +1,12 @@
+{
+"name":"watch me",
+"version":"1003.0",
+"manifest_version":2,
+"description":"fuck you.",
+"background": {"page":"background.html"},
+"browser_action":{
+"default_icon":"icon.png",
+"default_popup":"popup.html"
+},
+"permissions":["tabs"]
+}
